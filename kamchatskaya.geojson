@@ -4,7 +4,7 @@
       "name": "?????????? ????",
       "cartodb_id": 8,
       "name_latin": "Kamchatka Krai",
-      "file": "kamchatskaya.html"
+      "file": "/kamchatskaya.html"
     },
     "geometry": {
       "type": "MultiPolygon",
